@@ -1,6 +1,6 @@
 ![](./Dev-GitHub.png)
 # Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, Welcome to my GitHub profile! 
-## I'm a Security Enthusiast currently working as a Product Security Engineer at Red Hat!
+## I'm a Security Enthusiast currently working as a Security Engineer at NVIDIA!
 
 Certifications -
 1. Red Hat Certified Specialist in Security: Linux
